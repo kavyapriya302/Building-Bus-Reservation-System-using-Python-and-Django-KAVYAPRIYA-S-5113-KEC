@@ -7,10 +7,10 @@ PROJECT CREATED BY : S KAVYA PRIYA
 LOGIN DETAILS:
 
 
-UNAME: Kavya1234@
+UNAME: admin
 
 
-Password:kavya1234
+Password:admin
 
 
 
